@@ -171,27 +171,27 @@ Results
 Stock Price Forecasting:
 ARIMA Model:
 
-MAE = X
+MAE = 16.18
 
-RMSE = X
+RMSE = 18.685
 
-MAPE = X%
+MAPE = 10.25%
 
 XGBoost Model:
 
-MAE = X
+MAE = 3.95
 
-RMSE = X
+RMSE = 6.74
 
-MAPE = X%
+MAPE = 2.29%
 
 Tuned XGBoost Model:
 
-MAE = X
+MAE = 3.54
 
-RMSE = X
+RMSE = 6.39
 
-MAPE = X%
+MAPE = 1.97%
 
 Crop Price Analysis:
 ARIMA Model:
